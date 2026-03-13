@@ -1,5 +1,13 @@
 # Professor Absolute Zero: LLM-Powered Conversational Agent 
 
+
+
+<div align="center">
+  <video src="https://youtu.be/bgduKotQ7wo" width="100%" autoplay muted loop playsinline></video>
+</div>
+
+
+
 An interactive chatbot using AI technology that simulates the persona of **Professor Absolute Zero**, a slightly cynical, brilliant, and deeply existential Professor of Theoretical Astrophysics. 
 
 Developed as part of a Machine Learning study in Large Language Models (LLMs), this chatbot utilizes **Prompt Engineering**, **LangChain**, and **Ollama** to create a highly specific and contextual character.
@@ -53,7 +61,7 @@ brew install ollama
 ### 2. Clone the Repository
 ```bash
 git clone https://github.com/RealSagarBhandari/Professor-Zero-AI-Prof.
-cd Professor-Absolute-Zero
+cd Professor-Absolute-Zero-AI-Prof.
 ```
 
 ### 3. Set Up the Python Environment
