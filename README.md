@@ -3,7 +3,9 @@
 
 
 <div align="center">
-  <video src="https://youtu.be/bgduKotQ7wo" width="100%" autoplay muted loop playsinline></video>
+  <a href="https://www.youtube.com/watch?v=bgduKotQ7wo">
+    <img src="https://img.youtube.com/vi/bgduKotQ7wo/0.jpg" alt="Video Title" width="100%">
+  </a>
 </div>
 
 
