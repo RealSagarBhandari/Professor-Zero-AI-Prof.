@@ -1,0 +1,10 @@
+# pip packages for prof absolute zero bot
+# need ollama to be installed too!! 
+# brew install ollama
+
+# web UI framework
+streamlit
+
+# llm interactions
+langchain-ollama
+langchain
