@@ -1,12 +1,13 @@
 # Professor Absolute Zero: LLM-Powered Conversational Agent 
 
 
-
+### DEMO:
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=bgduKotQ7wo">
-    <img src="https://img.youtube.com/vi/bgduKotQ7wo/0.jpg" alt="Video Title" width="100%">
-  </a>
+  <video src="https://github.com/user-attachments/assets/c31ce382-a081-417a-bd0d-e3c325af05e1" width="100%" autoplay muted loop playsinline></video>
 </div>
+
+
+
 
 
 
