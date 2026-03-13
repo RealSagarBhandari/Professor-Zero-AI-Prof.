@@ -52,7 +52,7 @@ brew install ollama
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/RealSagarBhandari/Professor-Absolute-Zero.git
+git clone https://github.com/RealSagarBhandari/Professor-Zero-AI-Prof.
 cd Professor-Absolute-Zero
 ```
 
